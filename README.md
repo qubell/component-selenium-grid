@@ -28,7 +28,7 @@ Compoent is configured for quick launch with AWS EC2.
 > - 22 (SSH)
 > - 4444 (Selenium Hub)
 
-1. Grab component by "Get it now" from [here](_resources/grid.html) to you prefered organization.
+1. Grab component by "Get it now" from [here](http://rawgithub.com/dmakhno/component-selenium-grid/master/_resources/grid.html) to you prefered organization.
 2. Configure if `Platform`->`Cloud Account` hasn't configured AWS
 3. Configure if `Environment`->`default` hasn't associated Cloud Account
 4. Go to `Applications` and press `[Launch]`
