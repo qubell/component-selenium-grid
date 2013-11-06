@@ -29,11 +29,12 @@ Compoent is configured for quick launch with AWS EC2.
 > - 4444 (Selenium Hub)
 
 1. Grab component by "Get it now" from [here](http://rawgithub.com/dmakhno/component-selenium-grid/master/_resources/grid.html) to you prefered organization.
-2. Configure if `Platform`->`Cloud Account` hasn't configured AWS
-3. Configure if `Environment`->`default` hasn't associated Cloud Account
+2. Configure if `Environment`->`default` hasn't associated Cloud Account (create new via `Platform`->`Cloud Account`)
+3. Configure if `Environment`->`default` hasn't associated Secure Vault 2.0 and Workflow Service (create new via `Platform`->`Services`)
 4. Go to `Applications` and press `[Launch]`
 5. Wait
-6. On Done, you should see remote-url and console-url set
+6. On Done, you should see remote-url and console-url set like:  
+![Running Grid Component](_resources/GridComponent.png)
 
 Now you can visit console-url. You should see something like:  
 ![Selenium Grid Console](_resources/GridConsole.png)
