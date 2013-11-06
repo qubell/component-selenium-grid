@@ -1,0 +1,11 @@
+kit:
+  name: "Qubell Selenium Grid"
+  link: https://github.com/qubell/component-selenium-grid
+  applications: 
+    - name: "Selenium Grid"
+      manifest: "https://dl.dropboxusercontent.com/u/15604911/Manifests/PetClinicIde/petclinic_env.yml"
+  provider:
+    name: "Qubell"
+    link: http://qubell.com
+  documentation:
+    overview: ""
