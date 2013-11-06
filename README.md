@@ -28,7 +28,7 @@ Compoent is configured for quick launch with AWS EC2.
 > - 22 (SSH)
 > - 4444 (Selenium Hub)
 
-1. Grab component by "Get it now" from [here](http://rawgithub.com/dmakhno/component-selenium-grid/master/_resources/grid.html) to you prefered organization.
+1. Grab component by "Get it now" from [here](http://rawgithub.com/qubell/component-selenium-grid/master/_resources/grid.html) to you prefered organization.
 2. Configure if `Environment`->`default` hasn't associated Cloud Account (create new via `Platform`->`Cloud Account`)
 3. Configure if `Environment`->`default` hasn't associated Secure Vault 2.0 and Workflow Service (create new via `Platform`->`Services`)
 4. Go to `Applications` and press `[Launch]`
